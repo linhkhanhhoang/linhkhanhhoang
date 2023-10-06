@@ -1,6 +1,6 @@
 <h1 align="center">✨✨✨hi, welcome to my github✨✨✨</h1>
 
-### my name is Linh Hoang
+<h3>my name is Linh Hoang</h3>
 💠 <a href="https://drive.google.com/file/d/1SFiRulCVlS4KCuNAkuRgihpp8m1TYJ69/view?usp=sharing">My Resume</a>
 
 🌸 I'm a sophomore at Dickinson College majoring in Computer Science and Mathematics
@@ -9,14 +9,14 @@
 
 🐸 I'm currently looking for a Summer 2024 Software Engineering/Data Engineering internship
 
-### my research experiences:
+<h3>my research experiences:</h3>
 <ul>
   <li>(On-going) <b>Adversarial + Quantized Knowledge Distillation Research </b><i>with Prof. Leah Liu @ Penn State</i></li>
   <li><a href="https://github.com/linhkhanhhoang/afriSimAlign">Improving Machine Translation for Wikipedia</a> @ <a href="https://www.cs.umd.edu/projects/reucaar/index.html">REU-CAAR University of Maryland, College Park</a></li>
   <li><a href="https://drive.google.com/file/d/1RrN0A-FHwmsSPYzb4TNzDx-eQImsQtV7/view">Research on Support Vector Machine</a></li>
 </ul>
 
-### my on-going personal projects:
+<h3>my on-going personal projects:</h3>
 <ul>
   <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App</li>
   <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform</li>
