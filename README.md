@@ -22,7 +22,7 @@
   <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform</li>
 </ul>
 
-### you can find me at:
+<h3>you can find me at:</h3>
   <a href="mailto:hoangli@dickinson.edu"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=512" width="42" height="42"/> </a>
   <a href="https://www.linkedin.com/in/linhhoang04/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" height="42"/> </a>
   <a href="https://www.facebook.com/linhkhanhoang/"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="42" height="42"/> </a>
@@ -32,7 +32,7 @@
 **linhkhanhhoang/linhkhanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://open.spotify.com/user/21fg75fsmhg5ovkm7yzhvhbai?si=36f320d8400d4109"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-4408602-3649960.png?f=webp&w=512" width="42" height="42"/> </a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
