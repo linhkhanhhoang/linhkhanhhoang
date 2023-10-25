@@ -18,8 +18,8 @@
 
 <h3>my on-going personal projects:</h3>
 <ul>
-  <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App (with Quang Phung @ Dickinson College)</li>
-  <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform (with Tri Nguyen @ Minerva University)</li>
+  <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App</li>
+  <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform </li>
 </ul>
 
 <h3>you can find me at:</h3>
