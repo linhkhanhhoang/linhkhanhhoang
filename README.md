@@ -3,11 +3,11 @@
 <h3>my name is Linh Hoang</h3>
 💠 <a href="https://drive.google.com/file/d/1SFiRulCVlS4KCuNAkuRgihpp8m1TYJ69/view?usp=sharing">My Resume</a>
 
-🌸 I'm a sophomore at Dickinson College majoring in Computer Science and Mathematics
+🌸 I'm a Computer Science and Mathematics double major at Dickinson College
 
 🍋 I have experience in Machine Learning, Deep Learning, and Software Engineering
 
-🐸 I'm currently looking for a Summer 2024 Software Engineering/Data Engineering internship
+🐸 I'm currently looking for a Summer 2024 Software Engineering/Data Engineering/Machine Learning Engineering internship
 
 <h3>my research experiences:</h3>
 <ul>
@@ -16,10 +16,10 @@
   <li><a href="https://drive.google.com/file/d/1RrN0A-FHwmsSPYzb4TNzDx-eQImsQtV7/view">Research on Support Vector Machine</a></li>
 </ul>
 
-<h3>my on-going personal projects:</h3>
+<h3>my personal projects:</h3>
 <ul>
-  <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App</li>
   <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform </li>
+  <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App</li>
 </ul>
 
 <h3>you can find me at:</h3>
