@@ -1,7 +1,6 @@
 <h1 align="center">✨✨✨hi, welcome to my github✨✨✨</h1>
 
 <h3>my name is Linh Hoang</h3>
-💠 <a href="https://drive.google.com/file/d/1SFiRulCVlS4KCuNAkuRgihpp8m1TYJ69/view?usp=sharing">My Resume</a>
 
 🌸 I'm a Computer Science and Mathematics double major at Dickinson College
 
