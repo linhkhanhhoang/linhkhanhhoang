@@ -6,8 +6,6 @@
 
 🍋 I have experience in Machine Learning, Deep Learning, and Software Engineering
 
-🐸 I'm currently looking for a Summer 2024 Software Engineering/Data Engineering/Machine Learning Engineering internship
-
 <h3>my research experiences:</h3>
 <ul>
   <li>(On-going) <b>Adversarial + Quantized Knowledge Distillation Research </b><i>with Prof. Leah Liu @ Penn State</i></li>
