@@ -15,8 +15,8 @@
 
 <h3>my personal projects:</h3>
 <ul>
-  <li><a href="https://github.com/TriNguyen52/musik_demo_2">musee</a> - Music Sharing Platform </li>
-  <li><a href="https://github.com/QuangPhung15/Word-Connection-Game">Connect Từ</a> - Vietnamese Word Connection Web App</li>
+  <li><a></a> </li>
+  <li><a>Connect Từ</a></li>
 </ul>
 
 <h3>you can find me at:</h3>
