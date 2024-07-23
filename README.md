@@ -16,7 +16,7 @@
 <h3>my personal projects:</h3>
 <ul>
   <li><a></a> </li>
-  <li><a>Connect Từ</a></li>
+  <li><a></a></li>
 </ul>
 
 <h3>you can find me at:</h3>
