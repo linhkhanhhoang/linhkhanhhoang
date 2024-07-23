@@ -6,6 +6,7 @@
 
 🍋 I have experience in Machine Learning, Deep Learning, and Software Engineering
 
+<!--
 <h3>my research experiences:</h3>
 <ul>
   <li>(On-going) <b>Adversarial + Quantized Knowledge Distillation Research </b><i>with Prof. Leah Liu @ Penn State</i></li>
@@ -18,7 +19,7 @@
   <li><a></a> </li>
   <li><a></a></li>
 </ul>
-
+-->
 <h3>you can find me at:</h3>
   <a href="mailto:hoangli@dickinson.edu"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=512" width="42" height="42"/> </a>
   <a href="https://www.linkedin.com/in/linhhoang04/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" height="42"/> </a>
