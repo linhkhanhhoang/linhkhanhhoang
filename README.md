@@ -23,9 +23,6 @@
 <h3>you can find me at:</h3>
   <a href="mailto:hoangli@dickinson.edu"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-outlook-1411854-1194343.png?f=webp&w=512" width="42" height="42"/> </a>
   <a href="https://www.linkedin.com/in/linhhoang04/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="42" height="42"/> </a>
-  <a href="https://www.facebook.com/linhkhanhoang/"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="42" height="42"/> </a>
-  <a href="https://discord.com/users/temthoi"> <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="42" height="42"/> </a>
-  
 <!--
 **linhkhanhhoang/linhkhanhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
